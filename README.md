@@ -1,1 +1,1 @@
-# My-Website
+# BoardingSchool-Website
